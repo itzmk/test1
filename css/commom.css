@@ -1,0 +1,5 @@
+* {	padding: 0;	margin: 0;	border: 0;	outline: none;	list-style-type: none;}
+em, i {	font-style: normal;}
+a {	color: #666;	text-decoration: none;}
+a:hover { color: #066;}
+body {	color: #666; font: 12px/22px "Simsun", "宋体"; overflow-x: hidden;}
